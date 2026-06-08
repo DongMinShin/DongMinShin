@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nibo
+# Hi there 👋
 
 🎓 Undergraduate Student  
 🔬 Interested in Computational Physics, Molecular Dynamics and Glass Transition  
